@@ -1,8 +1,8 @@
 # About
 
-This repository contains a lightweight Minecraft server optimized for running on a Raspberry Pi 4. The server uses PurpurMC, a high-performance Minecraft server implementation that is based on the popular PaperMC software.
+This repository contains a lightweight Minecraft server optimized for running on a Raspberry Pi 5. The server uses PurpurMC, a high-performance Minecraft server implementation that is based on the popular PaperMC software.
 
-The server is pre-configured with optimized settings files and scripts for dynamically changing server and plugin settings to ensure the best possible performance on a Raspberry Pi 4.
+The server is pre-configured with optimized settings files and scripts for dynamically changing server and plugin settings to ensure the best possible performance on a Raspberry Pi 5.
 
 ## Prerequisites
 
